@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+}
+
+.player_one{
+	background-color:white;
+
+	
+}
+
+h5,h6{
+	text-align:center;
+}
+
+video{
+	text-align:center;
+}
+
+.player_two{
+	text-align:center;
+}
+
+.player_three{
+	text-align:center;
+}
